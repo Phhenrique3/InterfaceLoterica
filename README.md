@@ -85,4 +85,18 @@ public InterfaceLoterica() { -
  ### Random random = new Random(); ###
  Cria uma instância da classe Random para gerar números aleatórios.
 
-  
+ ###  Bibliotecas utilizadas ### 
+
+jButtonAposta 
+Documentação : https://docs.oracle.com/javase/8/docs/api/javax/swing/JButton.html 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JTextField 
+Documentação : https://docs.oracle.com/javase/8/docs/api/javax/swing/JTextField.html
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JOptionPane 
+Documentação : https://docs.oracle.com/javase/8/docs/api/javax/swing/JOptionPane.html 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Versão utilizada do Java foi jdk 17 
+Documentação : https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
